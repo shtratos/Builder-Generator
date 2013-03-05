@@ -4,3 +4,8 @@ improvements
 - test for GoToBuilderAction
 - try to have one level indentation per method
 
+my improvements:
+ - add checkNotNull() validations
+ - make all parameters final
+ - make constructor public
+ - 
